@@ -1,1 +1,2 @@
-
+turtle.begin_fill 开始填充图形
+turtle.end_fill 结束填充图形
